@@ -1,0 +1,54 @@
+_repo: Boswell-s-Life-of-Johnson--13-Abridged-and-edited-with-an-introduction-by-Charles-Grosvenor-Os__1564
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boswell, James
+    birthdate: 1740
+    deathdate: 1795
+    gutenberg_agent_id: '659'
+    url: http://www.gutenberg.org/2009/agents/659
+    wikipedia: http://en.wikipedia.org/wiki/James_Boswell
+  editor:
+    agent_name: Osgood, Charles Grosvenor
+    birthdate: 1871
+    deathdate: 1964
+    gutenberg_agent_id: '5619'
+    url: http://www.gutenberg.org/2009/agents/5619
+description: "The Life of Samuel Johnson, LL.D. (1791) is a biography of Dr. Samuel\
+  \ Johnson written by James Boswell. The work was a popular and critical success\
+  \ when first published. It is regarded as an important stage in the development\
+  \ of the modern genre of biography; many have claimed it as the greatest biography\
+  \ written in English, but some modern critics object that the work cannot be considered\
+  \ a proper biography. While Boswell's personal acquaintance with his subject only\
+  \ began in 1763, when Johnson was 54 years old, Boswell covered the entirety of\
+  \ Johnson's life by means of additional research. The biography takes many critical\
+  \ liberties with Johnson's life, as Boswell makes various changes to Johnson's quotations\
+  \ and even censors many comments. Nonetheless, modern biographers have found Boswell's\
+  \ biography an important source of information on Johnson and his times.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1564'
+  wikidata: Q1218644
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Johnson, Samuel, 1709-1784'
+- !lcsh 'Authors, English -- 18th century -- Biography'
+- !lcsh 'Lexicographers -- Great Britain -- Biography'
+- !lcc 'CT'
+- !lcc 'PR'
+- !lcsh 'Critics -- Great Britain -- Biography'
+- GITenberg
+title: "Boswell's Life of Johnson\r\nAbridged and edited, with an introduction by\
+  \ Charles Grosvenor Osgood"
+url: http://www.gutenberg.org/ebooks/1564
+wikipedia:
+- https://en.wikipedia.org/wiki/Life_of_Samuel_Johnson
+- https://zh.wikipedia.org/wiki/%E7%B4%84%E7%BF%B0%E9%81%9C%E5%82%B3
+- https://it.wikipedia.org/wiki/Vita_di_Samuel_Johnson_(James_Boswell)
+- https://es.wikipedia.org/wiki/La_vida_de_Samuel_Johnson
+- https://la.wikipedia.org/wiki/The_Life_of_Samuel_Johnson
