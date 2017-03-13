@@ -1,5 +1,8 @@
 _repo: Boswell-s-Life-of-Johnson--13-Abridged-and-edited-with-an-introduction-by-Charles-Grosvenor-Os__1564
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Boswell, James
@@ -26,6 +29,8 @@ description: "The Life of Samuel Johnson, LL.D. (1791) is a biography of Dr. Sam
   \ and even censors many comments. Nonetheless, modern biographers have found Boswell's\
   \ biography an important source of information on Johnson and his times.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1564#Boswell-s-Life-of-Johnson--13-Abridged-and-edited-with-an-introduction-by-Charles-Grosvenor-Os_
 gutenberg_issued: '2006-05-12'
 gutenberg_type: Text
 identifiers:
